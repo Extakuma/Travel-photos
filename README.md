@@ -23,6 +23,12 @@
 旅先を決めるときや、旅の終わりにこの景色を共有したいと思ったとき
 
 ## 設計書
+#ER図
+https://drive.google.com/file/d/1IJ-J6Xa8qON2J9HBEzoinJoH4i1e5iDB/view?usp=sharing
+#アプリケーション詳細設計
+https://docs.google.com/spreadsheets/d/1aZMCWAm_7fuARGLUvwiR_hAi2tkTy3Vcm71JwnUrjIU/edit?usp=sharing
+#テーブル定義書
+https://docs.google.com/spreadsheets/d/18M7jA-8dkaiH31yZJ5xoiLLngUt3OLrjPxJeQ3uVvtk/edit?usp=sharing
 
 
 ## チャレンジ要素一覧
